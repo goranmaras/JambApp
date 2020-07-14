@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FactoryZadatak3</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="todo">todo</string>
+    <string name="Undernurished">Undernurished</string>
+    <string name="Healthy">Healthy</string>
+    <string name="Fat">Fat</string>
+    <string name="Obese">Obese</string>
+
+
+
+</resources>
